@@ -48,4 +48,3 @@ This was a group project by Electromechanical Engineering students at Addis Abab
 - Samuel Nigussie
 
 Supervised by: Mr. Abera
-*This repository maintained by Samuel Nigussie*
